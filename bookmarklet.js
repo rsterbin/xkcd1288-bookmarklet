@@ -65,7 +65,9 @@
                 'congressional leaders' : 'river spirits',
                 'congressional leader' : 'river spirit',
                 'homeland security' : 'homestar runner',
-                'could not be reached for comment' : 'is guilty and everyone knows it'
+                'could not be reached for comment' : 'is guilty and everyone knows it',
+                'force': 'horse',
+                'forces': 'horses'
             };
 
             var toTitleCase = function (str) {

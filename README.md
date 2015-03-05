@@ -15,3 +15,5 @@ If you want to test the changes you make to bookmarklet.js, you can use `build_m
 
 You'll need to adjust `build_markup.sh` for your own environment, as the paths are just hardcoded to where I put the YUI compressor and bash.
 
+**Now includes [xkcd #1418](http://xkcd.com/1418/ "xkcd #1418")**
+
